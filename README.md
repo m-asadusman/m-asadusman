@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an aspiring web developer passionate about creating user-friendly websites. I’ve been learning the fundamentals of web development, with a strong focus on HTML and CSS. These tools have helped me build aesthetically pleasing websites, and I’m excited to expand my skill set into JavaScript and beyond.
+I'm n aspiring web developer passionate about building responsive, user-friendly websites. Skilled in HTML, CSS, and Bootstrap, I'm now learning JavaScript to create more dynamic and interactive web experiences.
 
 I love solving problems and using creativity to bring ideas to life online. Each project I work on is an opportunity to learn something new and refine my craft. This portfolio showcases my work so far and my journey into web development. I’m always eager to take on new challenges and collaborate on projects that push me to grow.
 
